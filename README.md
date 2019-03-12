@@ -1,5 +1,5 @@
 # Changes required  
-changle  settings.gradle 
+change settings.gradle 
 
 
 include ':app'
