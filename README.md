@@ -3,7 +3,9 @@ change settings.gradle
 
 
 include ':app'
+
 setBinding(new Binding([gradle: this]))
+
 evaluate(new File(
         '/$path/flutter_example/.android/include_flutter.groovy'
 ))
