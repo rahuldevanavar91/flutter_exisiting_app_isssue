@@ -10,4 +10,4 @@ evaluate(new File(
         '/$path/flutter_example/.android/include_flutter.groovy'
 ))
 
-replace $path wtih flutter module code path
+replace $path wtih flutter module code root dir
