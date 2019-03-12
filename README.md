@@ -1,5 +1,7 @@
 # Changes required  
-changle  settings.gradle to 
+changle  settings.gradle 
+
+
 include ':app'
 setBinding(new Binding([gradle: this]))
 evaluate(new File(
