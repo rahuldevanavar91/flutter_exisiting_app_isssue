@@ -1,7 +1,6 @@
-# flutter_exisiting_app_isssue
-Add Setting.gradle 
+# Changes required  
+changle  settings.gradle to 
 include ':app'
-
 setBinding(new Binding([gradle: this]))
 evaluate(new File(
         '/$path/flutter_example/.android/include_flutter.groovy'
